@@ -25,7 +25,7 @@
 ### Usage
 
 ```bash
-git pull https://github.com/anttoniogn-dev/next-template.git
+git clone https://github.com/anttoniogn-dev/next-template.git
 
 cd next-template
 
