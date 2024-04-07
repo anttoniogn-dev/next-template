@@ -29,5 +29,5 @@ git clone https://github.com/anttoniogn-dev/next-template.git
 
 cd next-template
 
-npm run install && npm run dev
+npm install && npm run dev
 ```
